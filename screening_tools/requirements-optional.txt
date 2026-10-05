@@ -1,0 +1,2 @@
+# Optional: checks PDF page counts.
+pypdf==6.10.0

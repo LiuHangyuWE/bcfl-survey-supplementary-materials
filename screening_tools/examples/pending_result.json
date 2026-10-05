@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "status": "pending_fulltext",
+  "decision": "存疑",
+  "code": "全文缺失",
+  "reason": "合成示例：尚未提供全文。",
+  "admission": "无",
+  "fulltext_read_complete": false
+}
